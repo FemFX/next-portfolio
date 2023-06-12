@@ -42,6 +42,6 @@ export const portfolio = [
   {
     title: "instagram-clone",
     stack: ["nest.png", "next.svg", "ts.png", "pg.png"],
-    link: "https://github.com/FemFX/simple-next-starbucks",
+    link: "https://github.com/FemFX/instagram-clone",
   },
 ];
