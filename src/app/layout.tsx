@@ -1,4 +1,3 @@
-"use client";
 import "./globals.css";
 import "remixicon/fonts/remixicon.css";
 import "react-toastify/dist/ReactToastify.min.css";
